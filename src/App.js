@@ -4,8 +4,9 @@ import "./styles/app.css";
 class App extends React.Component {
   render() {
     return (
-      <div>
-        <div className="test">Test Page</div>
+      <div className="test">
+        <div className="test1">test</div>
+        <div className="test2">line</div>
       </div>
     );
   }
